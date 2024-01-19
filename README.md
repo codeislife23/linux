@@ -2,7 +2,6 @@
 
 ## Introductory Terms and Concepts
 
-Before we begin our journey through the wonderful world of Linux Basics for Hackers, let's introduce a few terms that will clarify some concepts discussed later in this chapter.
 
 **Binaries:** This term refers to files that can be executed, similar to executables in Windows. Binaries generally reside in the /usr/bin or usr/sbin directory and include utilities such as `ps`, `cat`, `ls`, and `ifconfig` (we'll touch on all four of these in this chapter) as well as applications such as the wireless hacking tool `aircrack-ng` and the intrusion detection system (IDS) `Snort`.
 
