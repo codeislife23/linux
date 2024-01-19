@@ -26,7 +26,7 @@ Before we begin our journey through the wonderful world of Linux Basics for Hack
 
 The Linux filesystem structure differs somewhat from that of Windows. Instead of having a physical drive like the C: drive at the base of the filesystem, Linux uses a logical filesystem. At the top of the filesystem structure is the / directory, often referred to as the root of the filesystem, resembling an upside-down tree (see Figure 1-4). It's important to note that this is different from the root user. Although these terms may initially be confusing, they will become easier to distinguish as you become more familiar with Linux.
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/780a37f1-f4f7-4d77-835d-7c4df1ea5961/14fa0a34-1470-4128-80ef-f25736d20d5d/Untitled.png)
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/SRNkKKT/Untitled.png" alt="Untitled" border="0"></a>
 
 The root **(/)** of the filesystem is at the top of the tree, and the following are the most important subdirectories to know:
 
